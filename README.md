@@ -35,6 +35,6 @@ Files
 - `scores.json` - created when you save a score (appended as an array of records)
 - `README.md` - this file
 
-Want changes?
 
-- I can change the point values, make the hint configurable, or add a high-score display. Tell me which you prefer.
+
+
